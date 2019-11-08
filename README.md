@@ -1,3 +1,3 @@
 # hello-world
 Beschreibung
-die ist ein Text zum testen
+dies ist ein Text zum testen
